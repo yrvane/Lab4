@@ -1,0 +1,59 @@
+body{
+    background-color: coral;
+}
+
+header{
+    background-color: darkcyan;
+}
+.wrapper{
+    max-width: 70%;
+    background-color:antiquewhite;
+    margin: auto;
+    border-style: solid;
+    border-radius: 30px;
+}
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow:  2px 2px rgb(255, 85, 0);
+}
+
+section{
+    border-style: solid;
+    border-radius: 10px;
+    width: 65%;
+    background-color: burlywood;
+    margin: auto;  
+    box-shadow:  10px 5px 5px 2px  darkcyan;
+}
+
+ul{
+    display:flow-root;
+}
+
+.go{
+    text-align: center;
+}
+
+#back{
+    font-style: italic;
+    
+    border-radius: 15px;
+}
+
+#back:hover{
+    background-color: chocolate;
+}
+
+input{
+    border-radius: 30px;
+    background-color: antiquewhite;
+}
+
+button{
+    background-color: blanchedalmond;
+}
+
+button:hover{
+    background-color: blueviolet;
+}
